@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Valentin's GitHub stats](https://github-readme-stats.vercel.app/api?username=valentinjpl&show_icons=true&theme=dark)
+![Valentin's GitHub stats](https://github-readme-stats.vercel.app/api?username=valentino-choco&show_icons=true&theme=dark)
 
 <!--
 **valentino-choco/valentino-choco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
